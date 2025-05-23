@@ -1,0 +1,3 @@
+# SanalyAqtauBot
+
+Инструкция по запуску на Render и GitHub...
